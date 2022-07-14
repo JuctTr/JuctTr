@@ -1,5 +1,6 @@
 # 个人资料自述文件 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/45c59c20-56d8-4633-a040-6790103a941b/WechatIMG37.jpeg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220714%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220714T081949Z&X-Amz-Expires=86400&X-Amz-Signature=55649defa45b97eb44fe66bd5506ddf7af7750fe0ca6656b1b72ecdbf00b16e7&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22WechatIMG37.jpeg%22&x-id=GetObject)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuctTr&show_icons=true&theme=onedark&count_private=true)
 
