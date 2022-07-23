@@ -18,6 +18,8 @@
 
 [动态生成 GitHub 统计信息](https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md)
 
+[更多好看的案例](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+
 
 
 <!--
