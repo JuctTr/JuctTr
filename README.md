@@ -8,7 +8,7 @@
     <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=JuctTr&theme=onedark&hide_border=true" />
 </p>
 
-[![JuctTr's github activity graph](https://activity-graph.herokuapp.com/graph?username=JuctTr&theme=github&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![JuctTr's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=JuctTr&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JuctTr)](https://github.com/anuraghazra/github-readme-stats)
